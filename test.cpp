@@ -18,5 +18,5 @@ int main()
     cout << "false" << endl;
   }
 
-  return 0;
+  return 1;
 }
