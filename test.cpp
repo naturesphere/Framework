@@ -3,15 +3,18 @@
 
 using namespace std;
 
-int main() {
+int main()
+{
   bool flag;
 
   cout << "Hello World !" << endl;
   cin >> flag;
 
-  if (flag) {
+  if (flag)
+  {
     cout << "true" << endl;
-  } else {
+  } else
+  {
     cout << "false" << endl;
   }
 
